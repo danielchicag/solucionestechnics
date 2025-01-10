@@ -3095,8 +3095,8 @@ input, select, textarea {
 
 #whatsapp-icon {
     position: fixed;
-    bottom: -120px; /* Distancia desde el borde inferior */
-    right: -150px; /* Distancia desde el borde derecho */
+    bottom: -200px; /* Distancia desde el borde inferior */
+    right: -200px; /* Distancia desde el borde derecho */
     z-index: 1000; /* Asegura que el icono se quede encima de otros elementos */
     background-color: transparent; /* Fondo transparente */
     padding: 10px; /* Espaciado alrededor del icono */
